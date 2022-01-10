@@ -31,4 +31,4 @@ variables.Filename = filename;
 variables.Max = max;
 variables.AverageMtx = avgT;
 variables.LogAverageMtx = logavgT;
-save('Survivor_BSEEG_DHGBand.mat', 'variables');
+save('generic file name.mat', 'variables');
